@@ -1,0 +1,33 @@
+# Diabetes Prediction using Machine Learning
+
+## 📌 Project Overview
+
+This project builds machine learning models to predict diabetes using the Pima Indians Diabetes Dataset. Logistic Regression and Decision Tree models were trained and evaluated.
+
+## 📊 Results Summary
+
+- Logistic Regression Accuracy: 75.3%
+
+- Decision Tree Accuracy: 74.7%
+
+- Evaluation based on classification report and confusion matrix
+
+## 🛠️ Tools & Libraries
+
+- Python, Pandas, NumPy
+
+- Scikit-learn
+
+- Seaborn, Matplotlib
+
+## 🧠 Key Learnings
+
+- Applied data preprocessing and scaling
+
+- Balanced model performance vs. complexity
+
+- Understood importance of model evaluation in healthcare applications
+
+## 📁 Dataset
+
+- From Kaggle
